@@ -58,7 +58,7 @@ jxnjffqqdtzwgfxjfwjgjqtslytzx
 kyokggrreuaxhgykgxkhkrutmzuay
 lzplhhssfvbyihzlhylilsvunavbz
 
-d'ou notre flag esieaallyourbasearebelongtous , il suffit juste de l'écrire sous forme de esiea{xxx}
+d'ou notre flag <b>esieaallyourbasearebelongtous</b> , il suffit juste de l'écrire sous forme de esiea{xxx}
 
 
 # Flag
