@@ -10,7 +10,7 @@ on ouvrant le fichier cyphertext, on découvre plusieurs charabias,
 mais on sait que notre flag sera sous la forme de Esiea{xx} après une petite recherche dans le fichier, 
 on trouve cqgcy{yjjwmspzyqcypczcjmlermsq}, on remarque que c'est un cesar . 
 
-Voilà donc un petit code en python qui testera 10 cle de cesar afin de trouver le message clair..
+Voilà donc un petit code en python qui testera 10 clés de cesar afin de trouver le message clair..
 
 ```python
 #!/usr/bin/python
