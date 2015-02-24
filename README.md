@@ -12,5 +12,5 @@ There are some problems with CTF write-ups in general:
 
 # Contributors 
 
-* Hamza BOurrahim
+* Hamza Bourrahim
 * Mottier nicolas
