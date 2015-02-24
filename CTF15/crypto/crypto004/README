@@ -1,0 +1,9 @@
+[TITRE]
+Tout est histoire de fréquence.
+
+[DESCRIPTION]
+Le text suivant a été chiffré par une technique inconnue.
+Le seul indice que l'on possède est un tableau qui représente les différentes frequences d'apparition des lettres qui composent le texte clair.
+
+[FLAG]
+esiea{pirateisfree}

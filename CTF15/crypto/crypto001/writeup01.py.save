@@ -1,0 +1,24 @@
+#!/usr/bin/python
+
+import os
+import time
+
+message = "cqgcy{yjjwmspzyqcypczcjmlermsq}"
+nbtime = 0
+mymsg = ""
+
+def decrypt():
+	newc = 0
+	decrypted = ""
+	for i in range(0,len(message)):
+		if message[i] != '{' or message[i] != '}':
+			newc = ord(message[i])
+	
+			decrypted = decrypted + chr(newc)
+			print message[i] + "=>" + chr(newc) 
+			i= i + 1
+
+	return decrypted
+
+print decrypt()
+
