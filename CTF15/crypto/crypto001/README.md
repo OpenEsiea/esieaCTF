@@ -6,7 +6,7 @@ Un certain Blaise aurait chiffré un text d'une valeur inestimable aidez la NSA 
 
 # How to 
 
-on ouvrant le fichier cyphertext, on découvre plusieurs charabias, 
+En ouvrant le fichier cyphertext, on découvre plusieurs charabias, 
 mais on sait que notre flag sera sous la forme de Esiea{xx} après une petite recherche dans le fichier, 
 on trouve cqgcy{yjjwmspzyqcypczcjmlermsq}, on remarque que c'est un cesar . 
 
